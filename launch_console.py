@@ -10,7 +10,7 @@ while running:
     if choice =="1":
         print("...your about-me text...")
     elif choice == "2":
-        print("My goal is to make Nationals this season for Swimming.")
+        print("My goal is to make Nationals this season for Swimming")
     elif choice =='3':
         print("Goodbye!")
         running = False
